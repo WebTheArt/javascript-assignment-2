@@ -4,3 +4,5 @@ updates the content of the <div> element with the formatted time.
 
 We call the updateClock() function once to initialize the clock and 
 then use the setInterval() method to update the clock every second by calling the updateClock() function.
+
+https://webtheart.github.io/javascript-assignment-2/
